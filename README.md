@@ -1,1 +1,2 @@
 # Web-Inxhinieri
+ne rregull
